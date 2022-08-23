@@ -1,26 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To-Do List App
+# Testing Exercise
 
- "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. You will build a simple website that allows for doing that, and you will do it using ES6 and Webpack!
+ A few practical tests for JavaScript functions using the Jest library. You should make sure you follow the AAA pattern to make your tests easier for other developers to read and understand.
 
 ## Built With
 
-- Major languages - HTML, SCSS & JS
-- Technologies used - VSCode
-
-## Live Demo
-
-[Live Demo Link](https://walterokumu.github.io/to-do-list/dist/)
+- Major languages - JS
+- Technologies used - VSCode, Jest
 
 ## Getting Started
 
 ### To get a local copy up and running follow these simple steps
 
-    > git clone git@github.com:WalterOkumu/to-do-list.git
-    > cd to-do-list
+    > git git@github.com:WalterOkumu/testing-practice.git
+    > cd testing-practice
     > npm install or yarn install
-    > npm start or yarn start
+    > npm test or yarn test
 
 ## Authors
 
